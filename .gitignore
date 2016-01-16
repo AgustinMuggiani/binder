@@ -1,0 +1,21 @@
+# ignore .pyc files
+*.pyc
+
+# ignore coverage stats
+.coverage
+
+# ignore ipython checkpoints
+.ipynb_checkpoints/
+
+# ignore .dta files
+*.dta
+
+# ignore egg info
+solowpy.egg-info/
+
+# ignore compiled objects
+build/
+dist/
+
+# ignore MANIFEST
+MANIFEST

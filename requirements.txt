@@ -1,0 +1,3 @@
+solowPy
+pypwt
+quantecon
